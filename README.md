@@ -1,2 +1,1 @@
 # saturday
-today is saturday
